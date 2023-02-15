@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @heng86
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-heng86/heng86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 我是一恒。欢迎您来到这里！
+- 👀 我是一个开源软件爱好者，特别是开源php网站搭建程序，比如Typecho等。
+- 🌱 其实我是一个技术菜鸟或者小白，只是热衷于使用，对开发一窍不通。
+- 💞️ 目前这里有一些自行修改的HTML+CSS代码，最主要的是一些typecho主题模板。
+- 📫 欢迎你有空访问我的博客https://hu86.cc
